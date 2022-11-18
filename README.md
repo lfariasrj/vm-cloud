@@ -1,9 +1,10 @@
 # vm-cloud
-Tutorial to make a Always Free VM on Oracle Cloud and Setup a RDP connection to access for all devices.
-4 OCPUs
-24GB RAM
-200 GB SSD
-Steps:
+Tutorial to make a Always Free VM on Oracle Cloud and Setup a RDP connection to access for all devices. <br>
+4 OCPUs <br>
+24GB RAM <br>
+200 GB SSD <br>
+
+Steps: <br>
 1) Create a Oracle Account <br>
 2) Setup a VM Instance <br>
 3) Installing and configuring a VM <br>
