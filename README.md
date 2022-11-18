@@ -1,6 +1,8 @@
 # vm-cloud
 Tutorial to make a Always Free VM on Oracle Cloud and Setup a RDP connection to access for all devices.
-
+4 OCPUs
+24GB RAM
+200 GB SSD
 Steps:
 1) Create a Oracle Account <br>
 2) Setup a VM Instance <br>
@@ -47,7 +49,7 @@ Select Number of OCPUs to 4 and Amount of memory (GB) automatically set to 24 <b
 Click Select shape <br>
 At Add SSH keys group choose Generate a key pair for me and click to Save private key and public key <br>
 At Boot volume group choose Specify a custom boot volume size <br>
-Put Boot volume size (GB) to 50 <br>
+Put Boot volume size (GB) to 200 <br>
 Click on Create <br>
 
 ## 3) Installing and configuring a VM
@@ -80,3 +82,9 @@ At Ingress Rules click to Add Ingress Rules <br>
 Set Source CIDR to 0.0.0.0/0 <br>
 Set Destination Port Range to 3389 <br>
 Click Add Ingress Rules <br>
+Open to RDP client <br>
+Digit a Public IP for Instance <br>
+Click to Connect <br>
+Put Username and Password <br>
+
+Have Fun!
