@@ -4,6 +4,8 @@ Tutorial to make a Always Free VM on Oracle Cloud and Setup a RDP connection to 
 24GB RAM <br>
 200 GB SSD <br>
 
+More info https://www.oracle.com/cloud/free/
+
 Steps: <br>
 1) Create a Oracle Account <br>
 2) Setup a VM Instance <br>
