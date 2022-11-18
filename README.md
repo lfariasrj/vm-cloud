@@ -89,5 +89,5 @@ Open to RDP client <br>
 Digit a Public IP for Instance <br>
 Click to Connect <br>
 Put Username and Password <br>
-
+Setup your desktop preferences
 Have Fun!
