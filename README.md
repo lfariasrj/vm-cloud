@@ -65,13 +65,13 @@ sh ``` ssh -i privite-key download path username-copied@public-ip-copied``` for 
 
 ### THE FIVE CONFIGURATION COMMANDS
 ---------------------------------
-1. sudo apt update && sudo apt upgrade -y
-2. sudo apt-get install ubuntu-desktop xrdp stacer -y
-3. sudo cp /etc/iptables/rules.v4 /etc/iptables/rules.v4.bak && sudo truncate -s 0 /etc/iptables/rules.v4
-4. sudo rm /usr/share/polkit-1/actions/org.freedesktop.color.policy
-5. sudo passwd ubuntu      Example password : t6y1x9n6h7j1  so long,complex and not in a dictionary <br>
-then <br>
-sudo reboot
+1. sh ```sudo apt update && sudo apt upgrade -y```
+2. sh ```sudo apt-get install ubuntu-desktop xrdp stacer -y```
+3. sh ```sudo cp /etc/iptables/rules.v4 /etc/iptables/rules.v4.bak && sudo truncate -s 0 /etc/iptables/rules.v4```
+4. sh ```sudo rm /usr/share/polkit-1/actions/org.freedesktop.color.policy```
+5. sh ```sudo passwd ubuntu```      Example password : t6y1x9n6h7j1  so long,complex and not in a dictionary <br>
+
+Reboot a VM sh ```sudo reboot```
 
 ### CONNECT A INSTANCE WITH RDP
 ---------------------------------
