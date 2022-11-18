@@ -71,7 +71,7 @@ Open the terminal and connect to instance. <br>
 2. ```sudo apt-get install ubuntu-desktop xrdp stacer -y```
 3. ```sudo cp /etc/iptables/rules.v4 /etc/iptables/rules.v4.bak && sudo truncate -s 0 /etc/iptables/rules.v4```
 4. ```sudo rm /usr/share/polkit-1/actions/org.freedesktop.color.policy```
-5. ```sudo passwd ubuntu```      Example password : t6y1x9n6h7j1  so long,complex and not in a dictionary <br>
+5. ```sudo passwd ubuntu```      Example password : bvgghh5786aw3  so long,complex and not in a dictionary <br>
 
 Reboot a VM ```sudo reboot```
 
